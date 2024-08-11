@@ -1,0 +1,23 @@
+/* .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1vh;
+    margin-bottom: 35vh;
+  }
+  .image {
+    flex: 1;
+    padding: 2vh;
+  }
+  .image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .paragraph {
+    flex: 1;
+    padding: 2vh;
+    font-family: 'Playfair Display', serif; 
+  }
+/* font-family: 'IBM Plex Serif', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif; */ 
